@@ -1,5 +1,4 @@
 package com.piyush.path.getresourceasstream;
-
 import java.io.InputStream;
 
 public class Main {
